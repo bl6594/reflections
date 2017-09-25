@@ -1,0 +1,8 @@
+Want happens when you initialize a repository?  Why do you need to do it?
+  a .git directory is created, and commits will be tracked from now on
+  otherwise, no git functions will be active
+
+How is the staging area different from the working directory and the repository? what value do you think it offers?
+	staging area offers an area for all the files that are needed in one commit, while all the current files are in working 
+  directory, the repository only have all the committed files.
+	the staging area offers users the flexibility to select files that need to be committed since not all files in the working directory need to be committed into the repository  
