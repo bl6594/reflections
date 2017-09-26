@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 	staging area offers an area for all the files that are needed in one commit, while all the current files are in working 
   directory, the repository only have all the committed files.
 	the staging area offers users the flexibility to select files that need to be committed since not all files in the working directory need to be committed into the repository  
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+  try something different, but don't want to make same changes in the master branch.
+  branches give the developer the options and flexibilities to have a different versions or options for some commits on the main branch. 
