@@ -10,3 +10,6 @@ How is the staging area different from the working directory and the repository?
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
   try something different, but don't want to make same changes in the master branch.
   branches give the developer the options and flexibilities to have a different versions or options for some commits on the main branch. 
+
+how can you use the staging area to make sure you have one commit per logical change?
+  I can move all files that have changes related to a logical change, then commit them.
